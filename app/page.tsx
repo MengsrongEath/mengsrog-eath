@@ -157,7 +157,7 @@ export default function Portfolio() {
     },
     // Work experiences
     {
-      year: "2024 - Present",
+      year: "2022 - 2024",
       title: "Video Editor and Assistant Camera",
       subtitle: "Jomnot",
       type: "work",
